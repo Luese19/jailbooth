@@ -1,5 +1,5 @@
 # Operator Manual
-## The Slammer: Automated Mugshot Photo Booth
+## The IMAGE JAIL PHOTOBOOTH
 
 This manual provides step-by-step instructions for operating The Slammer photo booth during events.
 
