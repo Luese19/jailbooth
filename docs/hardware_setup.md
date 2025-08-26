@@ -1,5 +1,5 @@
 # Hardware Setup Guide
-## The Slammer: Automated Mugshot Photo Booth
+## The IMAGE JAIL PHOTOBOOTH
 
 This guide covers the complete hardware setup for The Slammer photo booth system.
 
