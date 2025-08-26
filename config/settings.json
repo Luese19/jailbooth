@@ -1,0 +1,38 @@
+{
+    "camera_index": "0",
+    "camera_resolution": [
+        1920,
+        1080
+    ],
+    "camera_fps": "30",
+    "image_contrast": 1.1,
+    "image_brightness": 10,
+    "apply_denoising": true,
+    "default_template": "dual_photo",
+    "template_directory": "templates",
+    "school_name": "Your School Name",
+    "event_name": "Photo Booth Event",
+    "event_date": "2025-08-24",
+    "output_directory": "output",
+    "image_format": "jpg",
+    "image_quality": 100.0,
+    "filename_prefix": "Mugshot",
+    "include_timestamp": false,
+    "fullscreen_mode": false,
+    "preview_size": [
+        640,
+        480
+    ],
+    "ui_theme": "dark",
+    "capture_countdown": "6",
+    "auto_save": true,
+    "show_last_photo": true,
+    "enable_sound": true,
+    "use_external_trigger": false,
+    "trigger_pin": null,
+    "flash_enabled": false,
+    "debug_mode": false,
+    "log_level": "INFO",
+    "max_retries": 3,
+    "timeout_seconds": 30
+}

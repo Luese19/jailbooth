@@ -1,0 +1,96 @@
+{
+    "name": "Dual Photo Mugshot",
+    "description": "",
+    "image_positions": [
+        {
+            "name": "front_view",
+            "x": 70,
+            "y": 882,
+            "width": 887,
+            "height": 542
+        },
+        {
+            "name": "side_view",
+            "x": 70,
+            "y": 296,
+            "width": 887,
+            "height": 542
+        }
+    ],
+    "background": {
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "image": "Template1.png"
+    },
+    "text_elements": [
+        {
+            "type": "",
+            "text": "",
+            "position": [
+                513,
+                50
+            ],
+            "font_size": 36,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "font_weight": "bold"
+        },
+        {
+            "type": "",
+            "text": "",
+            "position": [
+                513,
+                90
+            ],
+            "font_size": 18,
+            "color": [
+                100,
+                100,
+                100
+            ],
+            "font_weight": "normal"
+        },
+        {
+            "type": "date",
+            "text": "",
+            "position": [
+                513,
+                1420
+            ],
+            "font_size": 24,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "font_weight": "normal"
+        },
+        {
+            "type": "school",
+            "text": "",
+            "position": [
+                513,
+                1460
+            ],
+            "font_size": 28,
+            "color": [
+                0,
+                0,
+                100
+            ],
+            "font_weight": "bold"
+        }
+    ],
+    "decorative_elements": [],
+    "final_size": [
+        1027,
+        1500
+    ],
+    "dual_photo": true
+}

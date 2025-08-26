@@ -1,0 +1,20 @@
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pyserial>=3.5
+pygame>=2.5.0
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.7.0
+configparser>=5.3.0
+
+# Camera control libraries (choose based on your camera)
+# For Canon cameras
+# python-gphoto2>=2.5.0
+
+# For Sony cameras via USB
+# pysony>=0.1.0
+
+# Alternative: Generic USB camera support
+# For webcam fallback
+# imutils>=0.5.4
