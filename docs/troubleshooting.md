@@ -1,5 +1,5 @@
 # Troubleshooting Guide
-## The Slammer: Automated Mugshot Photo Booth
+## The IMAGE JAIL PHOTOBOOTH
 
 This guide helps diagnose and resolve common issues with The Slammer photo booth system.
 
