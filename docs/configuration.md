@@ -1,5 +1,5 @@
 # Configuration Guide
-## The Slammer: Automated Mugshot Photo Booth
+## The IMAGE JAIL PHOTOBOOTH
 
 This guide explains how to configure The Slammer photo booth system for your specific event and hardware setup.
 
