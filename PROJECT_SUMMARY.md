@@ -1,9 +1,9 @@
-# Project Summary: The Slammer
+# THE IMAGE JAIL BOOTH
 ## Automated Mugshot Photo Booth System
 
 ### 🎯 Project Overview
 
-**The Slammer** is a complete automated photo booth system designed to create fun, professional-looking "mugshot" photos for events like school functions, parties, and fundraisers. The system combines hardware setup with custom Python software to deliver a seamless, entertaining experience.
+**The IMAGE JAIL BOOTH** is a complete automated photo booth system designed to create fun, professional-looking "mugshot" photos for events like school functions, parties, and fundraisers. The system combines hardware setup with custom Python software to deliver a seamless, entertaining experience.
 
 ### ✅ Project Completion Status
 
