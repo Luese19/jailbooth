@@ -1,5 +1,5 @@
 # Installation Guide
-## The Slammer: Automated Mugshot Photo Booth
+## The IMAGE PHOTOBOOTH
 
 This guide covers the complete installation and setup process for The Slammer photo booth system.
 
