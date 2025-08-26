@@ -1,10 +1,10 @@
-# The Slammer: Automated Mugshot Photo Booth
+# The IMAGE JAIL BOOTH
 
 An interactive photo booth that simulates a classic police mugshot experience. Participants step into the themed booth, have their picture taken, and receive a digitally processed photo automatically placed into a branded template.
 
 ## Project Overview
 
-**The Slammer** is designed for events like school functions, parties, or fundraisers where participants can create fun, professional-looking "mugshot" photos with custom branding and fake charges.
+**The IMAGE JAIL BOOTH** is designed for events like school functions, parties, or fundraisers where participants can create fun, professional-looking "mugshot" photos with custom branding and fake charges.
 
 ## Key Features
 
